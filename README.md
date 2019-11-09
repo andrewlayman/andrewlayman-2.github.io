@@ -38,7 +38,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 # Test Content
 
-![Andrew Layman Thumbnail](https://github.com/andrewlayman/andrewlayman.github.io/blob/master/2018-11-23-Canon%20EOS%205D%20Mark%20III-0047%20(2).jpg)
+![Andrew Layman Thumbnail](./2018-11-23-Canon%20EOS%205D%20Mark%20III-0047%20(2).jpg)
 [Page 2](./page2.html)
 
 2019-10-23 11:10
