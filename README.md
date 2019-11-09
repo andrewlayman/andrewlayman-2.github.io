@@ -38,6 +38,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 # Test Content
 
+![Andrew Layman Thumbnail](url)
 [Page 2](./page2.html)
 
 2019-10-23 11:10
